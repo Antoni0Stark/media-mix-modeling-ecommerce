@@ -14,3 +14,12 @@ Marketing teams invest across multiple paid channels but struggle to understand 
 -Identified high-ROI and low-ROI marketing channels
 -Provided data-driven budget reallocation recommendations
 
+## Key Insights
+-Paid Search is the strongest short-term revenue driver
+-Paid Social supports awareness with delayed impact
+-Display shows lower marginal returns
+-Email provides efficient, consistent value
+
+## Recommendation
+Reallocate budget from low-performing channels toward Paid Search and Email to improve overall ROI.
+
